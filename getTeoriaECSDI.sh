@@ -109,8 +109,8 @@ wget http://goanna.cs.rmit.edu.au/%7Elinpa/Papers/AOSE07PDT.pdf
 cd ..
 cd ..
 
-mkdir Tema\ 7-\ Comunicación\ en\ Sistemas\ Multiagentes
-cd Tema\ 7-\ Comunicación\ en\ Sistemas\ Multiagentes
+mkdir Tema\ 6-\ Comunicación\ en\ Sistemas\ Multiagentes
+cd Tema\ 6-\ Comunicación\ en\ Sistemas\ Multiagentes
 mkdir Transparencias Documentación
 cd Transparencias
 
@@ -203,8 +203,8 @@ cd ..
 cd ..
 
 
-mkdir Tema\ 9-\ Composición\ de\ agentes-servicios
-cd Tema\ 9-\ Composición\ de\ agentes-servicios
+mkdir Tema\ 8-\ Composición\ de\ agentes-servicios
+cd Tema\ 8-\ Composición\ de\ agentes-servicios
 mkdir Transparencias
 cd Transparencias
 
