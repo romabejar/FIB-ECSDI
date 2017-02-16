@@ -420,3 +420,5 @@ URL=http://lod2.openlinksw.com/" \
 > 4-Open\ Link.url
 
 cd ../..
+
+git clone https://github.com/bejar/ECSDI2017.git
