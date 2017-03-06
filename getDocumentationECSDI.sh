@@ -422,3 +422,11 @@ URL=http://lod2.openlinksw.com/" \
 cd ../..
 
 git clone https://github.com/bejar/ECSDI2017.git
+
+mkdir Practica
+cd Practica
+
+wget http://www.cs.upc.edu/~bejar/ecsdi/Laboratorio/ECSDI16172q.pdf
+wget http://www.cs.upc.edu/~bejar/ecsdi/Laboratorio/ECSDILab16172q.pdf
+
+cd ..
